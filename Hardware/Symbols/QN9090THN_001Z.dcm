@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QN9090THN_001Z
+D RF System on a Chip - SoC QN9090T BLE SoC
+K
+F https://www.nxp.com/docs/en/nxp/data-sheets/QN9090(T)QN9030(T).pdf
+$ENDCMP
+#
+#End Doc Library
