@@ -1,4 +1,4 @@
-19274267019059090
+19282369680113524
 ASSETS
 0.5mm-NPTH-Drill
 
@@ -105,6 +105,13 @@ Crystal or Oscillator
 4
 4
 ASSETS
+ANTC3216X140N
+2450AT18B100E-1
+Antenna
+0
+2
+2
+ASSETS
 B4327
 
 
@@ -169,6 +176,20 @@ Company_Logo
 0
 ASSETS
 Company_Logo1
+
+
+0
+0
+0
+ASSETS
+Company_Logo_7.5x7.5
+
+
+0
+0
+0
+ASSETS
+Company_Logo_small
 
 
 0
@@ -2800,6 +2821,13 @@ ZTS6011E
 4
 4
 ASSETS
+company_l1
+
+
+0
+0
+0
+ASSETS
 mouse-bite-1mm-slot
 
 
@@ -2857,6 +2885,13 @@ mouse-bite-3mm-slot-intersection
 0
 ASSETS
 stack_pin
+
+
+0
+1
+1
+ASSETS
+testpoint_0.3mm
 
 
 0
